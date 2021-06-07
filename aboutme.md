@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: what you all came here to find out
-cover-image: bendkaye.github.io/assets/img/fam.jpg
+cover-img: "bendkaye.github.io/assets/img/fam.jpg"
 ---
 
 I’m a 26 year old Silicon Valley native with a passion for adventure and solving difficult puzzles. 
