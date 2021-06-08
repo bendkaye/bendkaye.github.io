@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign posts = site.tags.ELF | default: site.tags.ELF %}
 
 <div class="posts-list">
   {% for post in posts %}
