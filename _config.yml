@@ -18,7 +18,8 @@ navbar-links:
   Resources:
     - Binary Research: "https://binaryresearch.github.io/"
   CrackMe: 
-    - ELF: "adventure"
+    - ELF: 
+      - guild hall adventure Ch. 1: "adventure
   HTB:
   
 # --- Logo --- #
