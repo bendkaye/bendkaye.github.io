@@ -1,6 +1,6 @@
 
 ---
-layout: page
+title: Level 1
 ---
 
 
