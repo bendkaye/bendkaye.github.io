@@ -1,6 +1,6 @@
 
 ---
-layout: feed
+layout: page
 ---
 
 
