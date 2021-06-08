@@ -1,6 +1,8 @@
-
 ---
+layout: page
 title: Level 1
+subtitle: cracking those elf binaries
+
 ---
 
 
