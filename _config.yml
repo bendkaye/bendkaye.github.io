@@ -17,7 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Binary Research: "https://binaryresearch.github.io/"
-  CrackMe: "monkey"
+  CrackMe: 
+    - ELF: "monkey"
   HTB:
   
 # --- Logo --- #
