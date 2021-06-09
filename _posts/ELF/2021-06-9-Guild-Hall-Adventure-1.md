@@ -83,27 +83,21 @@ if (i == 0) {
   }
 {% endhighlight %}
 
+Do you see it now? It's comparing **argv** not argv[1]!
+
+argv **points to the name of the program**
+
+<img width="644" alt="Screen Shot 2021-06-09 at 13 38 25" src="https://user-images.githubusercontent.com/46263689/121340175-fa966580-c927-11eb-8919-6a4bd61a2909.png">
+
+I type in the name of the program, and the game has been won!
+
+
+### something cool I learnt
+
+because _length_ is determined by _user_input_, you don't need to write out "./adventure". 
+Even just a "." will suffice.
+<img width="644" alt="Screen Shot 2021-06-09 at 13 42 54" src="https://user-images.githubusercontent.com/46263689/121340731-9a53f380-c928-11eb-8752-a610e5972ed7.png">
 
 
 
 
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-~~~
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-~~~
