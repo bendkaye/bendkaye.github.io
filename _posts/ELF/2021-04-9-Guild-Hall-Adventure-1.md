@@ -17,7 +17,8 @@ This crack me is part of a "text based adventure" series. Not that difficult to 
 **Step One:** 
 I opened the terminal and ran the program, which closed immediately because it required a command line argument. I actually guessed the first part of the crackme, although any disassembler would have shown you the first answer in plain text.
 
-image1
+<img width="733" alt="Screen Shot 2021-06-09 at 10 20 53" src="https://user-images.githubusercontent.com/46263689/121474782-3cc5b280-c9cd-11eb-936c-cd5a0e10a632.png">
+
 
 I plug the program into Ghidra. Because we know the program expects a command line argument, we can easily edit the function signature in the awesome decompiler that ghidra offers, making the program much more readable. _Right click on param1, edit function signature, change **param1** to argc and **param2** to argv.
 
