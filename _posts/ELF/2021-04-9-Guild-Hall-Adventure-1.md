@@ -20,7 +20,7 @@ I opened the terminal and ran the program, which closed immediately because it r
 <img width="733" alt="Screen Shot 2021-06-09 at 10 20 53" src="https://user-images.githubusercontent.com/46263689/121474782-3cc5b280-c9cd-11eb-936c-cd5a0e10a632.png">
 
 
-I plug the program into Ghidra. Because we know the program expects a command line argument, we can easily edit the function signature in the awesome decompiler that ghidra offers, making the program much more readable. _Right click on param1, edit function signature, change **param1** to argc and **param2** to argv.
+I plug the program into Ghidra. Because we know the program expects a command line argument, we can easily edit the function signature in the awesome decompiler that ghidra offers, making the program much more readable. _Right click on param1, edit function signature, change **param1** to argc and **param2** to argv._
 
 <img width="649" alt="Screen Shot 2021-06-09 at 10 23 20" src="https://user-images.githubusercontent.com/46263689/121314783-6240b680-c910-11eb-9bd2-cff609396f03.png">
 
