@@ -59,7 +59,7 @@ Following the jump, it compares argv[1] with the string "hello". It does this by
     JNZ        LAB_00100922
     
  
- Everyting was pretty simple for me, but this is where I got confused:
+ Everything was pretty simple for me, but this is where I got confused:
  
     MOV        RDX,RAX
     MOV        RAX,qword ptr [RBP + local_b8]
