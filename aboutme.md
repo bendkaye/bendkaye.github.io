@@ -30,9 +30,9 @@ I started off with Linkers & Loaders by Levine and dove straight into Practical 
 It was exteremely helpful for me to go through the classic C book by Ritchie. Reading his book and doing excersizes from each chapter helps introduce yourself to the concepts necessary to reverse engineer binaries.
 
 RE4B by Dennis Yurichev is my day to day guide while I make my way through the exercizes and challenges in his book. (It’s over 1000 pages)
-I pay him personally [for lessons]("https://yurichev.com/news/20210109_teaching/"), and we correspond regularly over my progress. 
+I pay him personally [for lessons](https://yurichev.com/news/20210109_teaching), and we correspond regularly over my progress. 
 
-As of late, my current focus has been solving "Crack Me's" from [crackme.one]("crackme.one"). I try to solve at least 2 crackme's a day, starting from the beginner challenges. Level 1 beginner challenges are excellent, they are all pretty simple to solve, yet some of the challenges have more advanced methods available for completing them.
+As of late, my current focus has been solving "Crack Me's" from [crackmes.one](https://crackmes.one). I try to solve at least 2 crackme's a day, starting from the beginner challenges. Level 1 beginner challenges are excellent, they are all pretty simple to solve, yet some of the challenges have more advanced methods available for completing them.
 
 I spend some time on Hack the Box challanges, but find them slow paced and less equipt to learning new skills.
 
