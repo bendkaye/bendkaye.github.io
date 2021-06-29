@@ -18,6 +18,7 @@ navbar-links:
   Resources:
     - Binary Research: "https://binaryresearch.github.io/"
     - Yurichev: "https://yurichev.com/"
+    - Heap Exploitation: "https://heap-exploitation.dhavalkapil.com/"
   CrackMe: 
     - ELF: "elf"
     - OSx: "OSx"
