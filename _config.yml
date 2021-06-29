@@ -21,7 +21,7 @@ navbar-links:
   CrackMe: 
     - ELF: "elf"
     - OSx: "OSx"
-  HTB:
+  HTB: "htb"
   
 # --- Logo --- #
 
